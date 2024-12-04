@@ -31,6 +31,9 @@ branch = '1.1'
 # Show a warning that this release is unmaintained.
 is_eol = True
 
+# Link to 5.x docs for search engines
+canonical_version = '5'
+
 # Add any paths that contain custom themes here, relative to this directory.
 html_theme_path = []
 html_theme = 'cakephp'
